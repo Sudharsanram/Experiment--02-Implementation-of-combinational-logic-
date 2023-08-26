@@ -36,7 +36,7 @@ Y= A⊕B
  
 ## Logic Diagram:
 
-![de02 ](https://github.com/Sudharsanram/Experiment--02-Implementation-of-combinational-logic-/assets/119393980/462ac9cc-7510-4fa9-ab8d-e2355c53830f)
+
 
 
 ## Procedure:
@@ -68,6 +68,7 @@ Program to implement the given logic function and to verify its operations in qu
 
 ![Screenshot 2023-08-26 094944](https://github.com/Sudharsanram/Experiment--02-Implementation-of-combinational-logic-/assets/119393980/de2e9e3f-6a9c-4e4c-8b7f-6a5889265057)
 
+![de02 ](https://github.com/Sudharsanram/Experiment--02-Implementation-of-combinational-logic-/assets/119393980/462ac9cc-7510-4fa9-ab8d-e2355c53830f)
 
 
 ## RTL
